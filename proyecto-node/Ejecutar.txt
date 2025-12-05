@@ -1,0 +1,10 @@
+cd proyecto-node
+
+Crear los archivos en sus respectivas carpetas
+
+Ejecutar la aplicación:
+
+node server.js
+
+Abrir en el navegador: http://localhost:3000
+

@@ -1,0 +1,3 @@
+cd .\Desktop\proyecto-node\
+\Desktop\proyecto-node> node server.js
+Servidor ejecutándose en http://localhost:3000
