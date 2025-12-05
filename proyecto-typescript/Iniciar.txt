@@ -1,1 +1,0 @@
-cd Desktop\proyecto-typescript> node dist/peliculas.js
